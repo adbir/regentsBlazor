@@ -28,4 +28,4 @@ Indsætte antallet af objekter i listen, du har hentet, i PageTitle componenten.
 
 ### Format
 
-Opgaven afleveres via Github, og et link til dit repository sendes til mikkel@xmedicus.com
+Opgaven afleveres via Github, og et link til dit repository sendes til Mikkel
