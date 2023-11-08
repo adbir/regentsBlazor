@@ -13,7 +13,7 @@ Dataen der skal hentes, i programmet, findes på nedenstående link:
 https://gist.githubusercontent.com/adbir/e8b768cc854f0499034cd40fcf34a720/raw
 
 Du skal oprette de dataclasses, properties og services du har brug for, for at kunne løse opgaven hensigtsmæssigt. 
-De methods du bruger til at besvare spørgsmålene kan enten placeres i @code-blokken på FetchData.razor siden ellers lægges i en seperat FetchData.razor.cs-fil.  
+De methods du bruger til at besvare spørgsmålene kan enten placeres i @code-blokken på FetchData.razor siden eller lægges i en seperat FetchData.razor.cs-fil.  
 
 ### Besvarelser
 For en fuldstændig besvarelse skal nedenstående opgaver være løst:  
